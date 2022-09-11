@@ -1,0 +1,15 @@
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\bin\Debug\net6.0\SnakeGameHomeWork.exe
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\bin\Debug\net6.0\SnakeGameHomeWork.deps.json
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\bin\Debug\net6.0\SnakeGameHomeWork.runtimeconfig.json
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\bin\Debug\net6.0\SnakeGameHomeWork.dll
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\bin\Debug\net6.0\SnakeGameHomeWork.pdb
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.csproj.AssemblyReference.cache
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.AssemblyInfoInputs.cache
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.AssemblyInfo.cs
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.csproj.CoreCompileInputs.cache
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.dll
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\refint\SnakeGameHomeWork.dll
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.pdb
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\SnakeGameHomeWork.genruntimeconfig.cache
+F:\Beetroot.Net\Lesson_17\SnakeGameHomeWork\SnakeGameHomeWork\obj\Debug\net6.0\ref\SnakeGameHomeWork.dll
